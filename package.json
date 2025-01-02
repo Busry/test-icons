@@ -1,6 +1,6 @@
 {
-  "name": "REPLACE_ME",
-  "private": true,
+  "name": "test-icons",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -14,11 +14,11 @@
   "devDependencies": {
     "cpx": "^1.5.0",
     "svg-to-ts": "^10.0.0",
-    "vite": "^4.1.0"
+    "vite": "^6.0.6"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kreuzerk/svg-icon-library-starter.git"
+    "url": "git+https://github.com/Busry/test-icons.git"
   },
   "keywords": [
     "SVG",
@@ -29,7 +29,7 @@
   "author": "Kevin Kreuzer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kreuzerk/svg-icon-library-starter/issues"
+    "url": "https://github.com/Busry/test-icons/issues"
   },
-  "homepage": "https://github.com/kreuzerk/svg-icon-library-starter#readme"
+  "homepage": "https://github.com/Busry/test-icons#readme"
 }
